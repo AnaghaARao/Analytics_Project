@@ -1,7 +1,7 @@
 # Django Analytics Project
 
 This is a Django project for analytics purposes, featuring a dashboard with pivot tables and charts. 
-This is a project leverages Django, Python, and Flexmonster Pivot Table & Charts to transform raw data into interactive visualizations.
+This project leverages Django, Python, and Flexmonster Pivot Table & Charts to transform raw data into interactive visualizations.
 
 ## Key Tools and Technologies used
 
